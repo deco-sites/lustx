@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/lustx/": "./",
+
     "deco-sites/boilerplaten1/": "./",
     "deco-sites/fashion/": "./",
     "$store/": "./",
